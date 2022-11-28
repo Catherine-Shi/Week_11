@@ -7,4 +7,4 @@ Among with the odometer read are of the highest importance. To max out profit, d
 
 
 Detail Analysis:
-https://github.com/Catherine-Shi/Week_11/blob/main/prompt.ipynb
+https://github.com/Catherine-Shi/Week_11/blob/main/prompt_II.ipynb
